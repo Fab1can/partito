@@ -3,8 +3,8 @@ Qui vengono raccolti i requisiti fondamentali che devo avere per partecipare all
 * Sono antifascista
 * Sono contrario a ogni regime autoritario e totalitario
 * Ritengo che le persone non debbano essere discriminate per il loro orientamento sessuale, per il loro genere, per la loro religione o per la loro etnia
-* Sono favorevole a un'ecoonomia di mercato, ma con regole chiare e trasparenti che tutelino i lavoratori, i consumatori e l'ambiente
-* Sono favorevole all'inserimento nel mix energetico di fonti rinnovabili e nucleari a fissione
+* Sono favorevole a un'economia di mercato, ma con regole chiare e trasparenti che tutelino i lavoratori, i consumatori e l'ambiente
+* Sono favorevole all'inserimento nel mix energetico di fonti rinnovabili e nucleare a fissione
 * Sono europeista
 * Sono favorevole agli aiuti economici e militari all'Ucraina, e al suo diritto all'autodifesa
 * Sono favorevole al riconoscimento e al sostegno dello Stato di Palestina e della sua popolazione

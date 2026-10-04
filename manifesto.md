@@ -6,9 +6,11 @@ Il nostro progetto politico si fonda su tre principi fondamentali: **libertà in
 
 Crediamo in una società nella quale ogni persona possa vivere liberamente, esprimere la propria identità e compiere le proprie scelte, nel rispetto dei diritti altrui e dello Stato di diritto. Le istituzioni devono proteggere le libertà individuali, garantire pari dignità a tutti e impedire che il potere economico, politico o sociale si trasformi in uno strumento di sopraffazione.
 
+Il nostro progetto è antifascista e rifiuta ogni forma di autoritarismo e totalitarismo, nonché ogni soppressione delle libertà democratiche e dei diritti fondamentali.
+
 Sosteniamo un modello socialdemocratico basato su un'economia di mercato libera, accompagnata da tutele per i lavoratori, i consumatori e l'ambiente, da servizi pubblici accessibili e da una redistribuzione della ricchezza attraverso un sistema fiscale progressivo.
 
-La transizione ecologica deve essere un obiettivo centrale delle politiche pubbliche, perseguito con pragmatismo, innovazione e investimenti, senza scaricarne i costi in modo sproporzionato sulle fasce economicamente più deboli.
+Riconosciamo che il cambiamento climatico in corso è causato principalmente dalle attività umane e riteniamo necessario ridurre rapidamente le emissioni di gas serra. La transizione ecologica deve essere un obiettivo centrale delle politiche pubbliche, perseguito con pragmatismo, innovazione e investimenti, senza scaricarne i costi in modo sproporzionato sulle fasce economicamente più deboli.
 
 Siamo europeisti e sosteniamo la costruzione di una vera federazione europea, capace di agire democraticamente e autonomamente sul piano politico, economico e internazionale.
 
@@ -76,13 +78,13 @@ Vogliamo che i servizi di salute mentale dispongano di personale e risorse adegu
 
 ## 6. Istruzione, università e diritto allo studio
 
-L'istruzione deve essere uno strumento di emancipazione personale e di mobilità sociale. Le condizioni economiche della famiglia non devono determinare le opportunità formative di una persona.
+L'istruzione deve essere uno strumento di emancipazione personale e di mobilità sociale. Le condizioni economiche della famiglia non devono determinare le opportunità formative di una persona: l'accesso all'istruzione e all'università deve essere garantito a tutti, indipendentemente dalle condizioni economiche.
 
 Proponiamo un sistema universitario nel quale le tasse siano commisurate al reddito, evitando che il costo degli studi costituisca un ostacolo all'accesso all'istruzione superiore. Le tasse universitarie saranno calcolate secondo una funzione basata sul reddito pari a **TBD**, con l'obiettivo di garantire un accesso equo e sostenibile.
 
 Vogliamo inoltre rafforzare il sostegno agli studenti fuori sede, contribuendo a coprire i costi di affitto, trasporto e mantenimento. Le borse di studio e i sussidi saranno assegnati sulla base di criteri economici e di merito trasparenti, con soglie reddituali pari a **TBD** e importi definiti in funzione delle effettive necessità degli studenti.
 
-L'obiettivo è garantire che ogni persona meritevole possa proseguire gli studi indipendentemente dalle proprie condizioni familiari, senza essere costretta a rinunciare alle opportunità formative per ragioni economiche.
+L'obiettivo è garantire che ogni persona possa proseguire gli studi indipendentemente dalle proprie condizioni familiari, senza essere costretta a rinunciare alle opportunità formative per ragioni economiche.
 
 ## 7. Transizione ecologica, energia e trasporti
 
@@ -90,7 +92,7 @@ La transizione ecologica è una priorità politica e un investimento sul futuro.
 
 ### Energia
 
-Sosteniamo un mix energetico basato principalmente su **nucleare e fonti rinnovabili**, mantenendo un ruolo limitato per il gas.
+Sosteniamo un mix energetico basato principalmente su **nucleare a fissione e fonti rinnovabili**, mantenendo un ruolo limitato per il gas.
 
 L'obiettivo è garantire un approvvigionamento energetico affidabile, ridurre le emissioni e contenere la dipendenza energetica dall'estero. Il mix energetico nazionale dovrà raggiungere una composizione pari a **TBD** entro il **TBD**, attraverso investimenti nelle infrastrutture, nella produzione energetica e nella modernizzazione della rete.
 
@@ -154,7 +156,7 @@ Le depenalizzazioni riguarderanno i reati individuati secondo criteri di gravit�
 
 La libertà individuale è uno dei principi centrali del nostro progetto politico. Ogni persona maggiorenne e capace di intendere e di volere deve poter compiere le proprie scelte, purché non arrechi danno diretto ad altre persone e non le esponga a rischi ingiustificati.
 
-Le leggi non devono fondarsi esclusivamente su tradizioni, consuetudini o precetti religiosi. Le limitazioni della libertà devono essere motivate da ragioni concrete, proporzionate e compatibili con i diritti fondamentali.
+Lo Stato è laico e mantiene una netta separazione dalle confessioni religiose, garantendo a tutti la libertà di coscienza, di religione e di non religione. Le leggi non devono fondarsi esclusivamente su tradizioni, consuetudini o precetti religiosi. Le limitazioni della libertà devono essere motivate da ragioni concrete, proporzionate e compatibili con i diritti fondamentali.
 
 Quando una persona non è capace di intendere e di volere a causa di una condizione psichiatrica, la risposta deve privilegiare la cura, il sostegno e la tutela, anziché la punizione automatica.
 
@@ -176,7 +178,7 @@ La regolamentazione dovrà assicurare condizioni di lavoro sicure, accesso alla 
 
 ### Diritti LGBTQ+ e parità di genere
 
-Sosteniamo la piena tutela dei diritti delle persone LGBTQ+ e il contrasto a ogni forma di discriminazione basata sull'orientamento sessuale, sull'identità di genere o su altre caratteristiche personali.
+Sosteniamo la piena tutela dei diritti delle persone LGBTQ+ e il contrasto a ogni forma di discriminazione basata sull'orientamento sessuale, sull'identità o espressione di genere, sul sesso, sulla religione, sull'etnia, sull'origine nazionale o su altre caratteristiche personali.
 
 Vogliamo contrastare **ogni forma di discriminazione di genere**, oltre al sessismo e agli stereotipi di genere, riconoscendo sia i problemi che colpiscono le donne sia quelli che possono colpire gli uomini. La parità deve essere perseguita attraverso politiche che garantiscano pari dignità, opportunità e tutela contro ogni forma di discriminazione.
 
@@ -230,7 +232,7 @@ Gli strumenti diplomatici, i criteri per gli aiuti economici e militari e le mod
 
 ### Politiche abitative
 
-Crediamo che l'accesso a un'abitazione dignitosa sia una componente essenziale della sicurezza economica e dell'autonomia individuale. La politica abitativa deve contribuire a ridurre il peso dei costi di alloggio sulle famiglie, con particolare attenzione alle persone a basso reddito, ai giovani e a chi vive in condizioni di precarietà economica.
+Riconosciamo l'accesso a un'abitazione dignitosa come un diritto fondamentale. La politica abitativa deve contribuire a garantirlo a tutte le persone e a ridurre il peso dei costi di alloggio sulle famiglie, con particolare attenzione alle persone a basso reddito, ai giovani e a chi vive in condizioni di precarietà economica.
 
 Proponiamo di sostenere l'accesso alla casa attraverso strumenti pubblici e sussidi mirati, con criteri di reddito e importi pari a **TBD**, favorendo condizioni abitative dignitose e sostenibili.
 

@@ -4,6 +4,8 @@
 
 Il nostro progetto politico si fonda su tre principi fondamentali: **libertà individuale, rispetto dei diritti umani e transizione ecologica**.
 
+Riteniamo inoltre che le decisioni pubbliche debbano essere fondate, per quanto possibile, sulle migliori evidenze scientifiche e sui pareri delle competenze tecniche pertinenti. La politica deve stabilire democraticamente gli obiettivi e le priorità collettive, mentre la scelta degli strumenti per raggiungerli deve tenere conto delle conoscenze scientifiche e tecniche disponibili, valutando in modo trasparente dati, benefici, rischi e incertezze. Le decisioni non devono essere guidate da pregiudizi ideologici o interessi particolari quando esistono evidenze affidabili che consentano di valutarne gli effetti.
+
 Crediamo in una società nella quale ogni persona possa vivere liberamente, esprimere la propria identità e compiere le proprie scelte, nel rispetto dei diritti altrui e dello Stato di diritto. Le istituzioni devono proteggere le libertà individuali, garantire pari dignità a tutti e impedire che il potere economico, politico o sociale si trasformi in uno strumento di sopraffazione.
 
 Il nostro progetto è antifascista e rifiuta ogni forma di autoritarismo e totalitarismo, nonché ogni soppressione delle libertà democratiche e dei diritti fondamentali.

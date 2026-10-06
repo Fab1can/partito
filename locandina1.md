@@ -1,38 +1,37 @@
-# UNA SOCIETÀ PIÙ GIUSTA, SOSTENIBILE E LIBERA
+# LOCANDINA 1 — LIBERTÀ, DIRITTI E UNA SOCIETÀ PIÙ GIUSTA
 
-### 💶 UN'ECONOMIA CHE FUNZIONA PER TUTTI
+## LIBERTÀ INDIVIDUALE E DIRITTI
 
-* **Fisco progressivo:** chi ha più risorse contribuisce maggiormente.
-* Economia di mercato, **concorrenza e innovazione**, con tutela di lavoratori, consumatori e ambiente.
-* **Salario minimo legale** per garantire una retribuzione dignitosa.
-* Più tutele per chi perde il lavoro e **indennità adeguate**.
-* **Sostegni economici** per chi è in difficoltà.
+- Difesa delle **libertà individuali** e dei **diritti umani**
+- **Stato laico** e libertà di coscienza
+- Piena tutela dei **diritti LGBTQ+** e contrasto a ogni discriminazione
+- Contrasto a **ogni forma di discriminazione di genere**, sia nei confronti delle donne sia nei confronti degli uomini
+- Pari dignità, opportunità e tutela per **donne e uomini**, contrastando sessismo e stereotipi di genere
+- **Eutanasia regolamentata**
+- **Legalizzazione della prostituzione** e contrasto a sfruttamento e tratta
+- **Legalizzazione della cannabis** e depenalizzazione del consumo personale di droghe
 
-### 🏥 SANITÀ E SALUTE MENTALE
+## WELFARE E LAVORO
 
-* **Sanità pubblica universalistica**, accessibile a tutti.
-* Cure tempestive e servizi sanitari di qualità.
-* **Più psicologi e psicoterapeuti nel SSN**.
-* Riduzione delle liste d'attesa per la salute mentale.
+- **Salario minimo legale**
+- Maggiore tutela economica in caso di licenziamento
+- Sostegni economici alle persone e alle famiglie in difficoltà
+- **Sanità pubblica universalistica**
+- Più risorse per **salute mentale e psicoterapia pubblica**
+- Istruzione e università accessibili indipendentemente dal reddito
+- Sostegno agli **studenti fuori sede**
 
-### 🎓 ISTRUZIONE E UNIVERSITÀ
+## IMMIGRAZIONE E CITTADINANZA
 
-* **Tasse universitarie commisurate al reddito.**
-* Più sostegno agli **studenti fuori sede**.
-* Borse di studio e sussidi basati su criteri trasparenti.
-* Nessuno deve rinunciare agli studi per motivi economici.
+- **Superamento della Bossi-Fini**
+- Immigrazione regolare più semplice e coerente con le esigenze del mercato del lavoro
+- Procedure efficaci per regolarizzazioni ed espulsioni
+- Superamento dell'attuale modello dei **CPR** e dell'esternalizzazione delle procedure in Albania
+- Introduzione dello **ius culturae**
 
-### 🏠 CASA
+## GIUSTIZIA
 
-* **Sostegni pubblici per l'accesso alla casa.**
-* Aiuti mirati a giovani, persone a basso reddito e famiglie in difficoltà.
-
-### 🌱 TRANSIZIONE ECOLOGICA
-
-* **Nucleare + rinnovabili** al centro del mix energetico.
-* **Sussidi per l'efficientamento energetico degli edifici.**
-* Più isolamento, impianti efficienti e minori consumi.
-* Incentivi accessibili anche alle **famiglie con meno risorse**.
-* **Carbon tax progressiva** per ridurre le emissioni senza penalizzare le attività più deboli.
-* Incentivi per **auto elettriche e ibride** e una rete nazionale di colonnine.
-* Più investimenti in **ferrovie e trasporto pubblico**.
+- Riduzione del ricorso al carcere per i reati minori e non violenti
+- Più **misure alternative alla detenzione**
+- Migliori condizioni per detenuti e personale penitenziario
+- **Ispezioni indipendenti** nelle carceri

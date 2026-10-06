@@ -1,54 +1,42 @@
-# PIÙ LIBERTÀ. PIÙ DEMOCRAZIA. UN'EUROPA PIÙ FORTE.
+# LOCANDINA 2 — ECONOMIA, FUTURO ED EUROPA
 
-### 🗳️ UNA DEMOCRAZIA PIÙ APERTA
+## ECONOMIA E FISCO
 
-* **Meno firme** per presentare liste e candidati.
-* Sostegno pubblico ai **partiti piccoli e nuovi**, secondo criteri trasparenti.
-* **Referendum legislativo** per portare direttamente al voto le proposte di legge popolari che raggiungono la soglia prevista.
+- **Economia di mercato libera**, con tutela di lavoratori, consumatori e ambiente
+- **Fiscalità progressiva**
+- Tassazione basata su **funzioni matematiche continue**, senza bruschi salti tra scaglioni
+- Maggiore contributo da parte delle **grandi e grandissime imprese**
+- **Carbon tax** progressiva
 
-### 🇪🇺 GLI STATI UNITI D'EUROPA
+## TRANSIZIONE ECOLOGICA
 
-* Una vera **federazione europea democratica**.
-* Più integrazione politica e fiscale.
-* **Politica estera e difesa europea comuni.**
-* Una **capacità militare europea autonoma**, mantenendo la NATO nel percorso di transizione.
+- Riduzione rapida delle **emissioni**
+- Mix energetico basato principalmente su **nucleare e rinnovabili**
+- Investimenti nelle infrastrutture energetiche e nella rete
+- **Riqualificazione energetica degli edifici**
+- Potenziamento della **rete ferroviaria**
+- Priorità al trasporto pubblico e ferroviario rispetto all'espansione stradale e aerea
+- Incentivi alla **mobilità elettrica** e infrastrutture di ricarica
 
-### 🌍 IMMIGRAZIONE E CITTADINANZA
+## EUROPA E POLITICA ESTERA
 
-* Immigrazione regolare più semplice e coerente con le esigenze del mercato del lavoro.
-* Procedure efficaci per regolarizzare chi ne ha diritto e rimpatriare chi non ha diritto di soggiorno.
-* Superare l'attuale modello dei **CPR e dell'esternalizzazione in Albania**.
-* **Ius culturae** per i minori stranieri integrati attraverso scuola e formazione.
+- Costruzione degli **Stati Uniti d'Europa**
+- Maggiore integrazione politica e fiscale dell'UE
+- **Politica estera e di difesa europea comune**
+- Costruzione di una **capacità militare europea autonoma**
+- Sostegno all'**Ucraina** nella difesa dall'aggressione russa
+- Aiuti alla popolazione palestinese e **riconoscimento dello Stato di Palestina**
+- Politica estera fondata sul **diritto internazionale e sui diritti umani**
 
-### ⚖️ GIUSTIZIA
+## UNO STATO PIÙ SEMPLICE
 
-* Meno carcere per **reati minori e non violenti**.
-* Più misure alternative alla detenzione.
-* Condizioni dignitose per detenuti e personale penitenziario.
-* **Ispezioni indipendenti nelle carceri**.
+- Pubblica amministrazione **digitale e interoperabile**
+- Meno burocrazia per cittadini e imprese
+- Servizi pubblici digitali **semplici e accessibili**
+- Protezione dei dati personali e **sicurezza informatica**
 
-### 🏳️‍🌈 LIBERTÀ E DIRITTI
+## DECISIONI BASATE SULL'EVIDENZA
 
-* **Legalizzazione della cannabis** e depenalizzazione del consumo personale delle droghe.
-* **Eutanasia legale e regolamentata.**
-* **Prostituzione legale e regolamentata**, contro sfruttamento e tratta.
-* Piena tutela dei **diritti LGBTQ+**.
-* Lotta a **ogni forma di discriminazione di genere**, oltre a sessismo e stereotipi.
-* Attenzione sia a **tematiche maschili** che a **tematiche femminili**
-* **Parità di genere** e pari opportunità.
-* **Congedi parentali paritari**.
-* IVA ridotta sugli **assorbenti**.
-
-### 💻 UNO STATO SEMPLICE E DIGITALE
-
-* Pubblica amministrazione **interoperabile**.
-* Meno burocrazia e meno procedure ripetitive.
-* Servizi pubblici **digitali, semplici e accessibili**.
-* Privacy e **sicurezza informatica**.
-
-### 🌐 UNA POLITICA ESTERA AUTONOMA
-
-* Difesa del **diritto internazionale e dei diritti umani**.
-* Sostegno all'**Ucraina** e al suo diritto all'autodifesa.
-* **Aiuti alla popolazione palestinese** e riconoscimento dello Stato di Palestina.
-* Un'Europa capace di definire autonomamente la propria politica estera.
+- Politiche pubbliche basate sulle **migliori evidenze scientifiche disponibili**
+- Decisioni informate dai **pareri tecnico-scientifici competenti**
+- Valutazione trasparente di **dati, benefici, rischi e incertezze**

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Policies</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="markdown-it.js"></script>
+  </head>
+  <body>
+    <div id="policies"></div>
+    <script>
+      const md = window.markdownit();
+      fetch("policies.md")
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error(`Errore nel caricamento di policies.md: ${response.status}`);
+          }
+          return response.text();
+        })
+        .then((markdown) => {
+          const result = md.render(markdown);
+          document.getElementById("policies").innerHTML = result;
+        })
+        .catch((error) => {
+          document.getElementById("policies").textContent = "Impossibile caricare il contenuto.";
+          console.error(error);
+        });
+    </script>
+  </body>
+</html>

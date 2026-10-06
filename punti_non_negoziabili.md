@@ -17,4 +17,6 @@ Qui vengono raccolti i punti non negoziabili nell'ambito della discussione del p
 * Esiste il cambiamento climatico, è causato dall'uomo, ed è necessario intervenire per ridurre le emissioni di gas serra
 * Sanità pubblica e gratuita per tutti
 * Stato laico
+* Diritto all'aborto
 * Ammorbidimento delle leggi sull'immigrazione e sulla cittadinanza
+* Fiscalità progressiva e tassazione basata su funzioni matematiche continue

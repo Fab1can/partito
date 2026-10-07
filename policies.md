@@ -30,12 +30,13 @@
 * Basare l'aliquota della carbon tax sugli utili aziendali e la quantità di inquinanti prodotti.
 * Accompagnare la transizione ecologica con politiche che permettano anche alle famiglie con minori risorse di accedere a tecnologie e soluzioni meno inquinanti.
 
-## Lavoro
+## Lavoro e impresa
 
 * Introdurre un **salario minimo legale** su tutto il territorio nazionale.
 * Consentire il licenziamento, ma prevedere per l'azienda un'indennità economica elevata (ad eccezione di licenziamenti discriminatori o ritorsivi che rimangono proibiti).
 * **Rendere il licenziamento una scelta da effettuare come ultima risorsa attraverso un'elevatissima indennità.**
 * Commisurare l'indennità di licenziamento all'anzianità lavorativa e alla situazione familiare del dipendente.
+* Creare un organo statale che valuti e conceda **prestiti a tasso agevolato a chi vuole avviare un'attività imprenditoriale**.
 
 ## Sostegni economici e welfare
 
@@ -97,13 +98,13 @@
 * Investire nell'alta velocità ferroviaria.
 * **Potenziare i collegamenti ferroviari regionali e nazionali.**
 * Migliorare l'accessibilità del trasporto pubblico.
-* **Ridurre la dipendenza dall'automobile dove esistono alternative efficienti.**
+* **Creare alternative efficenti in modo da ridurre la dipendenza dall'automobile.**
 * Utilizzare la rete ferroviaria per ridurre le emissioni.
 * Migliorare i collegamenti tra i territori attraverso una rete ferroviaria moderna e capillare.
 
 ## Mobilità elettrica
 
-* Introdurre **sussidi per l'acquisto di automobili elettriche e ibride**.
+* Introdurre **maggiori sussidi per l'acquisto di automobili elettriche e ibride**.
 * Investire nella costruzione di colonnine di ricarica.
 * Estendere le infrastrutture di ricarica alle aree rurali e meno densamente popolate.
 * Progettare gli incentivi per favorire anche le fasce di reddito medio-basse.
